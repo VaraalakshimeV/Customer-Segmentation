@@ -14,7 +14,6 @@
 
 </div>
 
-> **Note:** This project is part of my data analytics portfolio and demonstrates practical customer segmentation techniques using machine learning for business decision-making.
 
 ---
 
